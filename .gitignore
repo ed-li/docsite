@@ -15,3 +15,5 @@
 /docs
 /dist
 /dioxus_search
+
+/node_modules
